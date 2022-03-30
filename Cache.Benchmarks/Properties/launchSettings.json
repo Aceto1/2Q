@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cache.Benchmarks": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\results"
+    }
+  }
+}
